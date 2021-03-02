@@ -1,3 +1,5 @@
+import React from "react"
+import Header from "./Header"
 import './App.css';
 
 function App() {
@@ -7,6 +9,9 @@ function App() {
      <h1> YAY , Lets Build YouTube Clone </h1>
 
      {/* Header */}
+
+     <Header/>
+
      {/* Sidebar */}
      {/* Recommended Video */}
     </div>
